@@ -1,0 +1,14 @@
+META-INF/spring-configuration-metadata.json
+com/bookstore/MainApplication.class
+com/bookstore/config/ConfigureDataSources.class
+com/bookstore/config/SecondEntityManagerFactory$1.class
+com/bookstore/service/AuthorBookService.class
+com/bookstore/ds1/AuthorService.class
+com/bookstore/ds2/Book.class
+com/bookstore/ds1/Author.class
+com/bookstore/config/SecondEntityManagerFactory.class
+com/bookstore/config/FirstEntityManagerFactory.class
+com/bookstore/config/FirstEntityManagerFactory$1.class
+com/bookstore/ds1/AuthorRepository.class
+com/bookstore/ds2/BookRepository.class
+com/bookstore/ds2/BookService.class

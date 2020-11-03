@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "spring.datasource.ds1.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.ds1.url'"
+  },
+  {
+    "name": "spring.datasource.ds1.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.ds1.username'"
+  },
+  {
+    "name": "spring.datasource.ds1.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.ds1.password'"
+  },
+  {
+    "name": "spring.datasource.ds1.connection-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.ds1.connection-timeout'"
+  },
+  {
+    "name": "spring.datasource.ds1.idle-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.ds1.idle-timeout'"
+  },
+  {
+    "name": "spring.datasource.ds1.max-lifetime",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.ds1.max-lifetime'"
+  },
+  {
+    "name": "spring.datasource.ds1.maximum-pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.ds1.maximum-pool-size'"
+  }
+]}

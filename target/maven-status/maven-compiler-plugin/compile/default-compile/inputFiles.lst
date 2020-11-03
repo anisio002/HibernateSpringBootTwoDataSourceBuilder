@@ -1,0 +1,11 @@
+/home/anisio/Downloads/HibernateSpringBootTwoDataSourceBuilderKickoff/src/main/java/com/bookstore/service/AuthorBookService.java
+/home/anisio/Downloads/HibernateSpringBootTwoDataSourceBuilderKickoff/src/main/java/com/bookstore/config/FirstEntityManagerFactory.java
+/home/anisio/Downloads/HibernateSpringBootTwoDataSourceBuilderKickoff/src/main/java/com/bookstore/ds1/AuthorService.java
+/home/anisio/Downloads/HibernateSpringBootTwoDataSourceBuilderKickoff/src/main/java/com/bookstore/ds2/Book.java
+/home/anisio/Downloads/HibernateSpringBootTwoDataSourceBuilderKickoff/src/main/java/com/bookstore/ds1/AuthorRepository.java
+/home/anisio/Downloads/HibernateSpringBootTwoDataSourceBuilderKickoff/src/main/java/com/bookstore/config/SecondEntityManagerFactory.java
+/home/anisio/Downloads/HibernateSpringBootTwoDataSourceBuilderKickoff/src/main/java/com/bookstore/ds2/BookRepository.java
+/home/anisio/Downloads/HibernateSpringBootTwoDataSourceBuilderKickoff/src/main/java/com/bookstore/ds2/BookService.java
+/home/anisio/Downloads/HibernateSpringBootTwoDataSourceBuilderKickoff/src/main/java/com/bookstore/MainApplication.java
+/home/anisio/Downloads/HibernateSpringBootTwoDataSourceBuilderKickoff/src/main/java/com/bookstore/config/ConfigureDataSources.java
+/home/anisio/Downloads/HibernateSpringBootTwoDataSourceBuilderKickoff/src/main/java/com/bookstore/ds1/Author.java

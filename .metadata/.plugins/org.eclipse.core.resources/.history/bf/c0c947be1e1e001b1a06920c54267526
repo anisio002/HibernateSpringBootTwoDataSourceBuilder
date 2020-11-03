@@ -1,0 +1,38 @@
+spring:
+  datasource-ds1:
+    jdbc-url: jdbc:mysql://localhost:3306/authorsdb?createDatabaseIfNotExist=true
+    username: anisio
+    password: 1234
+    connection-timeout: 50000
+    idle-timeout: 300000
+    max-lifetime: 900000
+    maximum-pool-size: 8
+    minimum-idle: 8
+    pool-name: MyPoolDS1
+    connection-test-query: select 1 from dual
+  
+  datasource-ds2:
+    url: jdbc:mysql://localhost:3306/booksdb?createDatabaseIfNotExist=true
+    username: anisio
+    password: 1234
+    connection-timeout: 50000
+    idle-timeout: 300000
+    max-lifetime: 900000
+    maximum-pool-size: 4
+    minimum-idle: 4
+    pool-name: MyPoolDS2
+    connection-test-query: select 1 from dual
+      
+  logging:
+   level:
+     com.zaxxer.hikari.HikariConfig: DEBUG
+     
+     
+  jpa:
+    show-sql: true
+    open-in-view: false
+  
+    
+     
+      
+    
