@@ -1182,3 +1182,8 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2020-11-03 18:58:50,213 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-11-03 18:58:50,215 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-11-03 18:58:50,215 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anisio/Documentos/HibernateSpringBootTwoDataSourceBuilderKickoff/src/test/resources
+2020-11-03 19:53:37,940 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-03 19:53:37,941 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-03 19:53:37,941 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-03 19:53:37,942 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-03 19:53:37,942 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/anisio/Documentos/HibernateSpringBootTwoDataSourceBuilderKickoff/src/test/resources
